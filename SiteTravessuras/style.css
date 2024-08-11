@@ -1,0 +1,23 @@
+body {
+  color: black;
+  Background: white;
+  margin: 10px;
+
+}
+
+header { 
+    border-bottom: solid 10px  rgb(195 107 227);
+    font-size:27px;
+    
+}
+
+.links {
+    border:solid 5px rgb(74, 99, 168);
+    
+
+}
+
+.logo{
+    display: flex;
+
+}
